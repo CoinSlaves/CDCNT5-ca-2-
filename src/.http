@@ -1,0 +1,10 @@
+POST http://113.171.210.48:7149/api/User/UserRegister
+Content-Type: application/json
+{
+    "email":  " phannghia102aaa@gmail.com",
+    "password": "12345656757",
+    
+}
+
+
+
